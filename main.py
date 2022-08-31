@@ -3,7 +3,7 @@ import requests
 import time
 #先导入time模块
 def music_login():
-	#填写网址
+	#填写网址签到页
     url = 'XXXX'
 	#填写cookie形式
     cookie = {
